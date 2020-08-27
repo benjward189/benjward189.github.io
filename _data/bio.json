@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Benjamin Ward",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "benjward189@gmail.com",
+    "phone": "630-797-0818",
+    "website": "https://benjward189.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "189 Abbey Ln",
+      "postalCode": "60134",
+      "city": "Geneva",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "benjward189",
         "url": "http://github.com/changeme"
       },
       {
